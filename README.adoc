@@ -4,12 +4,11 @@
 
 # AI-Hardware-Center
 
-The IBM Research AI Hardware Center is a global research hub headquartered in Albany, New York. The center is focused on enabling next-generation chips and systems that support the tremendous processing power and unprecedented speed that AI requires to realize its full potential.  For more information see https://www.research.ibm.com/artificial-intelligence/ai-hardware-center/. 
-
-
 toc::[]
 
 
+## Overview
+The IBM Research AI Hardware Center is a global research hub headquartered in Albany, New York. The center is focused on enabling next-generation chips and systems that support the tremendous processing power and unprecedented speed that AI requires to realize its full potential.  For more information see https://www.research.ibm.com/artificial-intelligence/ai-hardware-center/. 
 
 ## How to create a project
 
